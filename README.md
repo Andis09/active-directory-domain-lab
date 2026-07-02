@@ -1,8 +1,8 @@
-# Active Directory Home Lab
+# Active Directory Domain Lab
 
 ## Overview
 
-I built this home lab to get hands-on experience with Active Directory and Windows Server. Instead of only learning the concepts, I wanted to understand how a company manages users, computers, and permissions in a real Windows domain.
+I built this domain lab to get hands-on experience with Active Directory and Windows Server. Instead of only learning the concepts, I wanted to understand how a company manages users, computers, and permissions in a real Windows domain.
 
 Using VMware, I installed Windows Server 2025, promoted it to a Domain Controller, created a new Active Directory domain, organized users into departments, created security groups, and joined a Windows 11 workstation to the domain.
 
